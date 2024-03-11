@@ -14,3 +14,9 @@ Model Evaluation: Assessed the model's performance on the test set using various
 
 ## Results
 The logistic regression model demonstrated excellent performance on the test set, showcasing its capability to effectively classify iris species based on the given features. Detailed performance metrics, including accuracy and a confusion matrix, provide insight into the model's classification capabilities and areas for potential improvement.
+
+## Technologies Used
+- Python
+- Scikit-learn for model implementation and evaluation
+- Pandas for data manipulation
+- Matplotlib and Seaborn for data visualization
